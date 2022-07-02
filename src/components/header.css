@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    height: 70px;
+  padding: 0px 50px;
+  background-color: rebeccapurple;
+   
+}
+
+.menuList{
+    display: flex;
+    list-style: none;
+    align-items: center; 
+    padding-left: 10px;
+    flex: 1;
+}
+
+.listItem {
+    margin: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    color: white;
+  }
